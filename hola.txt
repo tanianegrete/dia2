@@ -1,2 +1,2 @@
-rama1 
-Añadiendo texto nuevo
+rama 2
+Añadiendo imagen 
