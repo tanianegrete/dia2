@@ -1,2 +1,2 @@
-rama 2
-Añadiendo imagen 
+rama 3
+Añadiendo diseño a la pagina
